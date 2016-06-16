@@ -1,0 +1,38 @@
+F:\VS\UIDesing\UIDesing\bin\Debug\UIDesing.exe.config
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.exe
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.pdb
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesingSRV.csprojResolveAssemblyReference.cache
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.AutoPage.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.DClassify.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.DFileOpt.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.DataManual.Is_save.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.DMark.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.DMaterPosition.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.DMounting.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.DPcbdata.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.FileAdmin.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.File_oper.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.Form1.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.ManualForm.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.ManualPage.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.Optimize.AfterOpt.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.Optimize.CheckData.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.Optimize.DataAndOpt.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.Optimize.ParamDesinger.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.Properties.Resources.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesing.serverControl.resources
+F:\VS\UIDesing\UIDesing\obj\Debug\UIDesingSRV.csproj.GenerateResource.Cache
+F:\VS\UIDesing\UIDesing\bin\Debug\UIDesing.exe
+F:\VS\UIDesing\UIDesing\bin\Debug\UIDesing.pdb
+F:\VS\UIDesing\UIDesing\bin\Debug\EntityFramework.dll
+F:\VS\UIDesing\UIDesing\bin\Debug\EntityFramework.SqlServer.dll
+F:\VS\UIDesing\UIDesing\bin\Debug\MySql.Data.dll
+F:\VS\UIDesing\UIDesing\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\VS\UIDesing\UIDesing\bin\Debug\TIS.Imaging.ICImagingControl34.dll
+F:\VS\UIDesing\UIDesing\bin\Debug\EntityFramework.xml
+F:\VS\UIDesing\UIDesing\bin\Debug\EntityFramework.SqlServer.xml
+F:\VS\UIDesing\UIDesing\bin\Debug\Newtonsoft.Json.dll
+F:\VS\UIDesing\UIDesing\bin\Debug\Newtonsoft.Json.xml
+F:\VS\UIDesing - 副本\UIDesing\bin\Debug\UIDesing.exe.config
+F:\VS\UIDesing - 副本\UIDesing\obj\Debug\UIDesing.exe
+F:\VS\UIDesing - 副本\UIDesing\obj\Debug\UIDesing.pdb
